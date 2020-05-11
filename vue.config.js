@@ -5,6 +5,6 @@ module.exports = {
     
   ],
 
-      devServer: { port: 9001, proxy: "https://localhost:9001/api" }
+      devServer: { port: 9002, proxy: "https://localhost:9001/api" }
 
 }
